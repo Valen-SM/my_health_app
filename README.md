@@ -20,5 +20,5 @@ My Health App es una aplicación desarrollada con Flutter que permite a los usua
 
 1. **Inicio**: La pantalla de inicio proporciona enlaces rápidos a las diferentes funcionalidades de la aplicación.
 2. **Calculadora de Edad**: Seleccione su fecha de nacimiento y la aplicación calculará automáticamente su edad.
-3. **Calculadora de IMC**: Ingrese su peso en kilogramos y su altura en centímetros, luego presione el botón "Calcular IMC" para ver su índice de masa corporal y su categoría.
-4. **Calculadora de Signo Zodiacal**: Seleccione su fecha de nacimiento y la aplicación mostrará su signo zodiacal.
+3. **Calculadora de IMC**: Ingrese su peso en kilogramos y su altura en centímetros, luego presione el botón "Calculate BMI" para ver su índice de masa corporal y su categoría.
+4. **Calculadora de Signo Zodiacal**: Ingresa tu nombre y seleccione su fecha de nacimiento y la aplicación mostrará su signo zodiacal.
